@@ -1,6 +1,3 @@
-<!--   <div align=center>
-	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAn-ga-hee)](https://hits.seeyoufarm.com) 
-  </div>   -->
  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=An%20gahee&fontSize=60&fontAlign=22&fontAlignY=38)
  <br>
  <div align="center">
@@ -11,4 +8,4 @@
  ![Bootstrap](http://img.shields.io/badge/-Bootstrap-bfc8d7?style=flat-square&logo=bootstrap&logoColor="black"/)
   ![Figma](http://img.shields.io/badge/-Figma-e2d2d2?style=flat-square&logo=figma&logoColor="black"/)
   ![Photoshop](http://img.shields.io/badge/-Photoshop-ebebe3?style=flat-square&logo=adobephotoshop&logoColor="black"/)
-	</div>
+</div>
