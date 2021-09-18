@@ -10,3 +10,4 @@
  ![Bootstrap](http://img.shields.io/badge/-Bootstrap-14dce3?style=flat-square&logo=bootstrap&logoColor="black"/)
  ![React](http://img.shields.io/badge/-React-007dff?style=flat-square&logo=react&logoColor="black"/)
   ![Figma](http://img.shields.io/badge/-Figma-007dff?style=flat-square&logo=figma&logoColor="black"/)
+  ![Photoshop](http://img.shields.io/badge/-Photoshop-007dff?style=flat-square&logo=Photoshop&logoColor="black"/)
