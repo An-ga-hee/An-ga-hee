@@ -1,5 +1,5 @@
 
- ![header](https://capsule-render.vercel.app/api?type=waving&&color=efeff8&height=200&section=header&text=An%20gahee&fontSize=60&fontAlign=22&fontAlignY=38&fontColor=c9cbe0)
+ ![header](https://capsule-render.vercel.app/api?type=waving&&color=b57fb3&height=200&section=header&text=An%20gahee&fontSize=60&fontAlign=22&fontAlignY=38&fontColor=fdf2f0)
  <br>
  
   <div align=center>
