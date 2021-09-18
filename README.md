@@ -15,5 +15,5 @@
   </div>
  <h2 align=center>Contact Me</h2>
   <div align=center>
-	  ![Gmail](http://img.shields.io/badge/-Gmail-f2eee5?style=flat-square&logo=gmail&logoColor="black"/)
+
   </div>
