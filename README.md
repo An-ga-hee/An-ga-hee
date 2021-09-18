@@ -2,7 +2,7 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&&color=b57fb3&height=200&section=header&text=An%20gahee&fontSize=60&fontAlign=22&fontAlignY=38&fontColor=fdf2f0)
  <br>
  <h2 align=center>Stack</h2>
-  <div align=center>
+  <div align=left>
 	
   ![html5](http://img.shields.io/badge/-HTML5-f2eee5?style=flat-square&logo=html5&logoColor="black"/)
  ![CSS3](http://img.shields.io/badge/-CSS3-e5c1c5?style=flat-square&logo=css3&logoColor="black"/)
@@ -14,6 +14,6 @@
 	
   </div>
  <h2 align=center>Contact Me</h2>
-  <div align=center>
+  <div align=left>
 	
   </div>
