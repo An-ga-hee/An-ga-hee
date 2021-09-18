@@ -9,4 +9,4 @@
  ![jQuery](http://img.shields.io/badge/-jQuery-6eceda?style=flat-square&logo=jquery&logoColor="black"/)
  ![Bootstrap](http://img.shields.io/badge/-Bootstrap-bfc8d7?style=flat-square&logo=bootstrap&logoColor="black"/)
   ![Figma](http://img.shields.io/badge/-Figma-e2d2d2?style=flat-square&logo=figma&logoColor="black"/)
-  ![Photoshop](http://img.shields.io/badge/-Photoshop-c9ba9b?style=flat-square&logo=adobephotoshop&logoColor="black"/)
+  ![Photoshop](http://img.shields.io/badge/-Photoshop-bdc2bb?style=flat-square&logo=adobephotoshop&logoColor="black"/)
