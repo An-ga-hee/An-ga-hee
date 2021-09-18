@@ -3,7 +3,7 @@
   </div>   -->
  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=An%20gahee&fontSize=60&fontAlign=22&fontAlignY=38)
  <br>
- <div align=center>
+ <div align="center">
  ![html5](http://img.shields.io/badge/-HTML5-f2eee5?style=flat-square&logo=html5&logoColor="black"/)
  ![CSS3](http://img.shields.io/badge/-CSS3-e5c1c5?style=flat-square&logo=css3&logoColor="black"/)
  ![JavaScript](http://img.shields.io/badge/-JavaScript-c3e2dd?style=flat-square&logo=javascript&logoColor="black"/)
