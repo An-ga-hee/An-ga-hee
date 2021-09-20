@@ -1,5 +1,5 @@
 
- ![header](https://capsule-render.vercel.app/api?type=waving&&color=b57fb3&height=300&section=header&text=An%20gahee&fontSize=60&fontAlign=22&fontAlignY=50&fontColor=fff)
+ ![header](https://capsule-render.vercel.app/api?type=waving&&color=b57fb3&height=300&section=header&text=An%20gahee&fontSize=70&fontAlign=22&fontAlignY=40&fontColor=fff)
  <br>
  <h2 align=center>Stack</h2>
   <div align=center>
