@@ -16,10 +16,10 @@
  <h2 align=center>Contact Me</h2>
 <div align=center>
   <a href="https://mail.naver.com/write">
-    <img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://mail.naver.com/write"/>
+    <img src="https://img.shields.io/badge/Email-b6bbff?style=flat-square&logo=naver&logoColor=white&link=https://mail.naver.com/write"/>
   </a>
   <a href="https://www.instagram.com/in.scissors/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/in.scissors/">
+    <img src="https://img.shields.io/badge/Instagram-9ce8ee?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/in.scissors/">
   </a>
 </div>
 
