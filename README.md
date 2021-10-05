@@ -1,7 +1,7 @@
 
  ![header](https://capsule-render.vercel.app/api?type=waving&&color=b57fb3&height=300&section=header&text=An%20gahee&fontSize=70&fontAlign=22&fontAlignY=40&fontColor=fff)
  <br>
- <h2 align=center>🖤 Stack 🖤</h2>
+ <h2 align=center>🖤Stack🖤</h2>
   <div align=center>
 	
   ![html5](http://img.shields.io/badge/-HTML5-f2eee5?style=flat-square&logo=html5&logoColor="black"/)
@@ -13,7 +13,7 @@
   ![Photoshop](http://img.shields.io/badge/-Photoshop-ebebe3?style=flat-square&logo=adobephotoshop&logoColor="black"/)
 	
   </div>
- <h2 align=center>🤍 Contact Me 🤍</h2>
+ <h2 align=center>🤍Contact Me🤍</h2>
 <div align=center>
   <a href="https://mail.naver.com/write">
     <img src="https://img.shields.io/badge/Email-b6bbff?style=flat-square&logo=naver&logoColor=white&link=https://mail.naver.com/write"/>
